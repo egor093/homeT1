@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import './Header.css'
 import img1 from '../../img/logo.png'
 import img2 from "../../img/avatar.png"
@@ -27,4 +28,14 @@ export default function Header() {
         </header>
 
     )
+=======
+
+
+export default function Header() {
+  return (
+    <div>
+      <h1>Header</h1>
+    </div>
+  )
+>>>>>>> fe8b073dbab968cd8d454cb685872efacbda9450
 }

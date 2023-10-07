@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import './Footer.css'
 
 export default function Footer() {
@@ -46,5 +47,14 @@ export default function Footer() {
     <p className="final">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> 
     </div>
     </footer>
+=======
+
+
+export default function Footer() {
+  return (
+    <div>
+      <h1>Footer</h1>
+    </div>
+>>>>>>> fe8b073dbab968cd8d454cb685872efacbda9450
   )
 }
