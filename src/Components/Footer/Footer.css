@@ -1,0 +1,35 @@
+footer{
+    margin-top: 0;
+    background-color: gray;
+    padding: 1px;
+  }
+.end{
+    margin-top: 1%;
+  }
+  .end1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .t1{
+    color: lightgray;
+    margin-top: 10%;
+  }
+  i{
+  font-size: 25px;
+  }
+  .icon{
+    width: 18%;
+    margin-left: 10%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .globe{
+    float: right;
+    margin-top: 2%;
+  }
+  .final{
+    text-align: center;
+    color: lightgray;
+  }
